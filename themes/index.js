@@ -178,6 +178,12 @@ const themes = {
     icon_color: "19f9d8",
     text_color: "ffffff",
     bg_color: "002b36",
+  },
+  "purple-sunset":{
+    title_color: "ffffff",
+    icon_color: "ffffff",
+    text_color: "ffffff",
+    bg_color: "90,7474BF,348ac7",
   }
 };
 
